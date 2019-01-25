@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MainElections {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-	
+	/*commmentaires*/
 		boolean saisieOk = false;
 		int nbSiegesAPourvoir;
 		int nbListes;
